@@ -21,3 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 4. Install `npm i hoist-non-react-statics`
 5. Install material ui icons `yarn add @material-ui/icons`
 6. Run `npm start` on the project Root Directory
+
+
+## Screenshots
+Home Page and Model S ![Alt text](screenshots/ModelS.png?raw=true "Home Page")
+Scroll down to Model Y ![Alt text](screenshots/ModelS.png?raw=true "Model Y")
+Side Menu ![Alt text](screenshots/Sidemenu.png?raw=true "Side Menu")
+Scroll Page ![Alt text](screenshots/Sidemenu.png?raw=true "View scroll page")
